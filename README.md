@@ -1,1 +1,1 @@
-This file contains the code to make a snake gam in cpp using linked lists.
+This file contains the code to make a snake gam in cpp.
